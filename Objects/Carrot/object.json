@@ -2,7 +2,7 @@
     "Name": "Carrot",
     "Description": "A crunchy orange-yellow vegetable.",
     "Category": "Vegetable",
-    "Edibility": 10,
+    "Edibility": 8,
     "Price": 35,
     "IsColored": false,
     "GiftTastes":
