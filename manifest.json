@@ -2,12 +2,12 @@
     "Name": "CarrotCrop",
     "Author": "Kjay9558",
     "Description": "Add Carrots as summer crop.",
-    "Version": "0.1.0",
+    "Version": "1.2",
     "MinimumApiVersion": "3.0.0",
     "UniqueID": "Kjay9558.CarrotCrop",
     "ContentPackFor":
     {
         "UniqueID": "spacechase0.JsonAssets"
     },
-    "UpdateKeys": ["Nexus:..."],
+    "UpdateKeys": ["Nexus:8446"],
 }
