@@ -1,14 +1,14 @@
 ﻿{
-	"Name": "[PFM] Name of you pack",
-	"Author": "Your name",
-	"Version": "1.0.0",
-	"Description": "Adds producing rules for my mod.",
-	"UniqueID": "YourName.YouPackNameForProducerFrameworkMod",
+	"Name": "[PFM] CarrotCrop",
+	"Author": "Kjay9558",
+	"Version": "1.4",
+	"Description": "Adds seedmaker for Carrots.",
+	"UniqueID": "Kjay9558.PFMCarrotCrop",
 	"MinimumApiVersion": "3.0.0",
-	"UpdateKeys": [],
+	"UpdateKeys": ["Nexus:8446"],
 	"Dependencies": [
 		{
-			"UniqueID": "YourName.YourOthersPacksAndMods"
+			"UniqueID": "Kjay9558.JACarrotCrop",
 		}
 	],
 	"ContentPackFor": {
